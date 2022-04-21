@@ -1,0 +1,23 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+Listings
+
+ProjectDemo.uvgui.TuyenND
+ProjectDemo.uvopt
+Objects/*.obj
+Objects/ProjectDemo
+Objects/ProjectDemo.build_log.htm
+Objects/ProjectDemo.lnp
+Simulate/Backup Of ProjectSimulate.pdsbak
+Simulate/Last Loaded ProjectSimulate.pdsbak
+Simulate/ProjectSimulate.pdsprj.DESKTOP-DTDJVT3.TuyenND.workspace
